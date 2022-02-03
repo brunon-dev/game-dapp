@@ -1,0 +1,6 @@
+>$ cat .gitignore
+contracts/.placeholder
+test/.placeholder
+build
+deploy_mnemonic.key
+node_modules
